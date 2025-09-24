@@ -67,4 +67,4 @@ Q: Please purchase 200 ETH worth of DogeBlast for me.
 
 ## Support
 This has backend repo more and that is private for now. <br/>
-For support and further inquiries, please connect via Telegram: [jwest951227](https://t.me/nightstormlord).
+For support and further inquiries, please connect via Telegram: [nightstormlord](https://t.me/nightstormlord).
