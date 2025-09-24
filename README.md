@@ -1,4 +1,4 @@
-**Blockchain AI Agent - Solana AI Agent, Bitcoin AI Agent**
+blockchain-ai-agent
 =====================================
 
 Welcome to the Onchain AI Agent Platform! Our cutting-edge solution is designed to leverage the power of artificial intelligence and blockchain technology, providing users with a comprehensive toolkit for market analysis, trading insights, and decision-making.
@@ -67,4 +67,4 @@ Q: Please purchase 200 ETH worth of DogeBlast for me.
 
 ## Support
 This has backend repo more and that is private for now. <br/>
-For support and further inquiries, please connect via Telegram: [jwest951227](https://t.me/jwest951227).
+For support and further inquiries, please connect via Telegram: [jwest951227](https://t.me/nightstormlord).
